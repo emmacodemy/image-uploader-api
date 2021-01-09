@@ -1,3 +1,3 @@
-# Image Uploader Api for DevChallenge.io for Uploader challenge
+# Image Uploader Api for DevChallenge.io Uploader challenge
 
 Built using modern technologies: node.js, express.
